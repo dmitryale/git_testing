@@ -7,7 +7,7 @@ _italic_
 >
 DOI via Zenodo.com
 >
-![image](image.jpg)
+![image](WRF_wind_pn_T_20250120_0124_d02-35.png)
 
 [example ](https://example.com)
 
