@@ -1,2 +1,6 @@
 ##~/OneDrive/GitHub/Repos/git_testing/newfile.txt
-> Test
+% cd ~/OneDrive/GitHub/Repos/git_testing
+% git add hello_world.py
+% git commit -m "upload hello_world.py to remote storage git_testing project"
+% git push -u origin
+% git pull https://github.com/dmitryale/git_testing.git
